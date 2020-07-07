@@ -1,0 +1,7 @@
+.vs/
+build*/
+out/
+*.zip
+*.7z
+*.user*
+*.TMP
